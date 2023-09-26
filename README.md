@@ -8,6 +8,7 @@ There is a GUI for editing the keymap. It is available at https://kinesiscorpora
 
 Certain ZMK features require knowing the exact key positions in the matrix. They can be found in both image and text format [here](assets/key-positions.md)
 
+
 ## Building the Firmware with GitHub Actions
 
 ### Setup
